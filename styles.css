@@ -1,0 +1,97 @@
+/* ====== Global Styles ====== */
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 16px;
+  line-height: 1.6;
+  background-color: #FFFFFF;
+  color: #333333;
+}
+
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* ====== Layout Container ====== */
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+/* ====== Navigation ====== */
+nav {
+  background-color: #f3f3f3;
+  padding: 0.5rem 1rem;
+}
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+nav ul li {
+  display: inline-block;
+  margin: 0 0.75rem;
+}
+nav ul li a {
+  font-weight: bold;
+}
+
+/* ====== Header ====== */
+header {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem 1rem 0;
+}
+header h1 {
+  margin: 0 0 0.5rem 0;
+  font-size: 2rem;
+}
+header p {
+  margin: 0.25rem 0;
+}
+
+/* ====== Section Headings ====== */
+section h2 {
+  margin-top: 2rem;
+  font-size: 1.5rem;
+  border-bottom: 1px solid #dddddd;
+  padding-bottom: 0.25rem;
+}
+
+/* ====== Lists ====== */
+ul {
+  margin-left: 1.2rem;
+  margin-bottom: 1rem;
+  padding-left: 0;
+}
+ul li {
+  margin-bottom: 0.5rem;
+}
+
+/* ====== Footer ====== */
+footer {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem 1rem 2rem;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666666;
+  border-top: 1px solid #dddddd;
+}
+footer p {
+  margin: 0.5rem 0 0;
+}
+
+/* ====== Additional Utility Classes (Optional) ====== */
+
+.highlight {
+  background-color: #fffae6;
+  padding: 0.2rem;
+}
