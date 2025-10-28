@@ -1,0 +1,36 @@
+site_name: My Website
+site_url: https://Tonzium.github.io/Tonzium.github.io/
+site_description: Project documentation
+site_author: Toni Kiuru
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+    - scheme: default
+      primary: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+  # Default theme is dark (first palette)
+
+plugins:
+  - search
+  - awesome-pages
+  - git-revision-date-localized:
+      fallback_to_build_date: true
+      locale: en
+
+nav:
+  - About Me: index.md
+  - Work: work.md
+  - Experience: experience.md
+  - Education: education.md
+  - Skills: skills.md
+  - Awards: awards.md
+  - Projects: projects.md
+  - Contact: contact.md
