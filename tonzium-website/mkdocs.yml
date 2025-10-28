@@ -1,6 +1,6 @@
-site_name: My Website
+site_name: Toni Kiuru
 site_url: https://Tonzium.github.io/Tonzium.github.io/
-site_description: Project documentation
+site_description: CV
 site_author: Toni Kiuru
 
 theme:
@@ -20,10 +20,6 @@ theme:
 
 plugins:
   - search
-  - awesome-pages
-  - git-revision-date-localized:
-      fallback_to_build_date: true
-      locale: en
 
 nav:
   - About Me: index.md
