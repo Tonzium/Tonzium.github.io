@@ -80,7 +80,7 @@ I'm a big fan of science fiction, and the classic green-on-black aesthetic of th
 
 ### **What I Bring to the Team**
 
-I have seen firsthand that innovation starts with bringing people together. Through active listening, I help teams formulate actionable steps to create transformative change. I help teams structure messy data, build machine learning models that actually work in production, and connect data insights with real physical understanding. For example, I've developed models to predict material behaviour from process data.
+I have experienced firsthand that innovation starts with bringing people together. Through active listening, I help teams formulate actionable steps to create transformative change. I help teams structure messy data, build machine learning models that actually work in production, and connect data insights with real physical understanding. For example, I've developed models to predict material behaviour from process data.
 
 I enjoy shaping ideas into clear project plans, coordinating between R&D, IT, and production, and making sure every deliverable adds real value. I bring structured thinking, curiosity, and a collaborative mindset and I communicate results clearly, whether to researchers, operators, or management. I am a **native Finnish speaker** and work fluently in **English** in multicultural environments.
 
@@ -88,7 +88,7 @@ I enjoy shaping ideas into clear project plans, coordinating between R&D, IT, an
 
 ### **The Bridge: Materials-to-AI Pipeline**
 
-In my work, I focus on multivariate modelling of complex material and process systems, where interactions between parameters are often non-linear and time-dependent. Rather than analysing signals independently, I design models that capture temporal evolution across full process runs, enabling more accurate representation of physical behaviour. I place strong emphasis on rigorous validation strategies, including careful dataset splitting, robustness testing, and monitoring of model generalization across process drifts. Addressing generalization challenges across tools, materials, and production conditions is a central part of my modelling philosophy.
+In my work, I focus on modelling complex material and process systems. I design models that capture temporal evolution across full process runs, enabling more accurate representation of physical behaviour. I develop models that capture the temporal dynamics of production, enabling accurate and physically consistent representations of material behavior. My approach emphasizes rigorous validation, including structured dataset partitioning, robustness analysis, and continuous monitoring of model generalization under process drift. Ensuring reliability across tools, materials, and production conditions forms a central principle of my modeling philosophy.
 
 *How I translate physical signals into industrial impact.*
 
@@ -124,7 +124,7 @@ graph LR
 ---
 
 ### **Where Data Meets Real World**
-My background allows me to handle complex high-dimensional sensor data, not just as a mathematical exercise, but as a way to understand the physical phenomena behind material performance. 
+My background in materials and computational science allows me to bridge the gap between physical understanding and machine learning. I approach data not merely as numerical input, but as a window into the physical phenomena that drive material performance.
 
 *   **Applied AI/ML:** I work fluently with Python-based workflows (TensorFlow, PyTorch, Scikit-learn) to develop models for predictive material behaviour, quality control, anomaly detection, and predictive maintenance.
 *   **Operational Integration:** I focus on deploying models as actual decision-support tools in operational environments, ensuring they remain physically meaningful and practically usable.
@@ -215,13 +215,19 @@ I manage product/process qualifications, optimization, cost reduction, and yield
 ## Home Project examples
 
 ### [fintraffic_railway_data_pipeline](https://github.com/Tonzium/fintraffic_railway_data_pipeline)
-This repository contains professional data platform setup for analyzing Finnish Railway data.
+A professional-grade data platform setup for analyzing Finnish Railway data. I got hands-on experience with DuckDB, dbt, and Evidence while designing an end-to-end analytical workflow.
+
+### [GNN image classifier](https://github.com/Tonzium/GNN_WAVI_image_classifier)
+This project applies data augmentation to overcome limited labeled data in Wafer Automatic Visual Inspection (WAVI), improving classification accuracy with fewer samples. I learned how smart augmentation can significantly reduce manual labeling effort while keeping AI models robust and effective.
+
+### [MultiAgentPromptingForCodingTasks](https://github.com/Tonzium/MultiAgentPromptingForCodingTasks)
+This is one of my early experiments using crewAI to build an LLM multi-agent workflow for coding tasks. This project deepened my understanding of prompt engineering and agent coordination.
 
 ### [Q-learning-vs-ExpectedSarsa_in_cliff_world](https://github.com/Tonzium/Q-learning-vs-ExpectedSarsa_in_cliff_world)
-In this repository visually shows the differences (trade-off) between two RL algorithms: Q-learning and Expected Sarsa.
+A visual comparison between Q-learning and Expected Sarsa reinforcement learning algorithms, highlighting their exploration–safety trade-offs. It strengthened my intuition about balancing performance and stability in RL systems.
 
 ### [Reinforcement Learning - Lunar Lander v3](https://github.com/Tonzium/ExpectedSarsaAgent_with_NeuralNetwork-LunarLander-v3)
-This repository contains manual implementation of RL agent to play classic Lunar Lander v3 -game.
+An implementation of a neural-network-based RL agent for the classic Lunar Lander v3 game. I learned to design an environment-aware, action-driven training loop from scratch.
 
 ### [Snake Game - Click to play](https://tonzium.github.io/snakegame/)
 A classic Snake game implementation where you can play against AI or a friend.
