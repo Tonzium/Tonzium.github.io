@@ -204,10 +204,10 @@ I manage product/process qualifications, optimization, cost reduction, and yield
 
 | Category | Skills |
 | :--- | :--- |
-| **Materials Science** | MEMS, Semiconductor Technology, Microfabrication |
-| **Machine Learning** | Classic ML, Deep learning, TensorFlow, PyTorch, Scikit-learn |
+| **Materials Science** | MEMS, Li-ion technology, Semiconductor Technology, Microfabrication |
+| **Machine Learning** | Machine Learning, Deep learning, TensorFlow, PyTorch, Scikit-learn, Model Context Protocol, Hugging Face |
 | **Data Engineering** | Python, SQL, ETL Pipelines, Data Analysis |
-| **Tools & Platforms** | Git, SVN, Power BI, JMP, Linux |
+| **Tools & Platforms** | Git, SVN, Power BI, JMP, Linux, Postgres, DuckDB, dbt, Ollama, Antigravity, Gemini CLI, Claude Code, Perplexity |
 | **Soft Skills** | Leadership, Team Collaboration, Communication, Problem Solving |
 
 ---
