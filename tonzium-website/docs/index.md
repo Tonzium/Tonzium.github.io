@@ -54,7 +54,7 @@ After graduation, I deliberately expanded into **programming, data engineering, 
 
 Currently, I am completing a **Bachelor’s Degree in Data and AI at KAMK** alongside my work to formalize and certify my existing expertise, while staying aligned with modern tools and expanding my professional network. My planned graduation year is 2027.
 
-When I'm outside, I enjoy riding my mountain bike through forest trails. Indoors, I keep building my digital Homelab and connecting the digital world to the real world with a 3D printer models, bringing ideas to life. This mix of outdoor adventure and creative work keeps me motivated and curious
+I'm a big fan of science fiction, and the classic green-on-black aesthetic of the genre inspired the theme of this website. When I'm outside, I enjoy riding my mountain bike through forest trails. Indoors, I keep building my digital Homelab and connecting the digital world to the real world with a 3D printer models, bringing ideas to life. This mix of outdoor adventure and creative work keeps me motivated and curious.
 
 ---
 
@@ -152,11 +152,18 @@ I believe that the best solutions are created through trust, clarity, and shared
 I manage product/process qualifications, optimization, cost reduction, and yield improvement projects. My role involves executing Engineer Change Notices (planning, validation, documentation, safe-launch, reporting) and ensuring robust process controls.
 
 *   **Key Responsibilities:**
+    *   Responsible of silicon-glass fusion process to ensure structural integrity and directing post-fusion workflows.
     *   Metrology tool controls (MSA, Gage R&R).
     *   Implementing process controls and continuous improvements (CI) to reduce variation.
     *   Leading root-cause investigations (FTA, 8D).
     *   Overseeing purchases and supplier quality projects.
     *   Financial assessments and ROI analyses.
+
+*   **My Impact (Data & AI):**
+    *   **Digital Transformation:** Spearheaded initiatives delivering end-to-end data solutions, from novel data-collection strategies to fully automated analytics.
+    *   **AI Integration:** Developed novel process controls leveraging AI for predictive maintenance and smarter production workflows.
+    *   **Visualization:** Created Power BI and JMP dashboards for enhanced analysis.
+    *   **Mentorship:** Mentoring engineers in machine learning and deep-learning initiatives.
 
 ??? Click_to_see_Manufacturing_Processes
     Thermal glass-silicon fusion  
@@ -169,11 +176,6 @@ I manage product/process qualifications, optimization, cost reduction, and yield
     Polishing Processes  
     Metrology Tools  
 
-*   **My Impact (Data & AI):**
-    *   **Digital Transformation:** Spearheaded initiatives delivering end-to-end data solutions, from novel data-collection strategies to fully automated analytics.
-    *   **AI Integration:** Developed novel process controls leveraging AI for predictive maintenance and smarter production workflows.
-    *   **Visualization:** Created Power BI and JMP dashboards for enhanced analysis.
-    *   **Mentorship:** Mentoring engineers in machine learning and deep-learning initiatives.
 
 ??? Click_to_see_Data_and_AI_Innovations
     Glass-Silicon Fusion Data and AI solution  
