@@ -20,4 +20,4 @@ __pycache__/
 Thumbs.db
 
 # currently no workflows in use
-.github/workflows/docs.yml
+#.github/workflows/docs.yml
