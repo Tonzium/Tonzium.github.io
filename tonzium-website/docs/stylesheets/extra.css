@@ -1,0 +1,133 @@
+/* Import a tech-looking font */
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Share+Tech+Mono&display=swap');
+
+:root {
+  /* Cyberpunk / Data accents */
+  --md-primary-fg-color: #00ff41; /* Terminal Green */
+  --md-primary-fg-color--light: #4caf50;
+  --md-primary-fg-color--dark: #00b32c;
+  --md-accent-fg-color: #00e5ff; /* Cyan */
+  
+  --tech-bg-color: #0a0a0a;
+  --grid-line-color: rgba(0, 255, 65, 0.05);
+}
+
+body[data-md-color-scheme="slate"] {
+  background-color: var(--tech-bg-color);
+  background-image: 
+    linear-gradient(var(--grid-line-color) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid-line-color) 1px, transparent 1px);
+  background-size: 30px 30px; /* Grid size */
+  background-attachment: fixed; /* Parallax-ish feel */
+}
+
+/* Typography tweaks for that "Console" feel */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Share Tech Mono', monospace;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #39ff14 !important; /* Brighter Neon Green */
+  font-weight: 700;
+  text-shadow: 0 0 10px rgba(57, 255, 20, 0.6), 0 0 20px rgba(57, 255, 20, 0.2);
+}
+
+/* Data Dashboard Cards */
+.data-dashboard {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.data-card {
+  border: 1px solid #39ff14;
+  background: rgba(0, 20, 0, 0.8);
+  padding: 10px;
+  box-shadow: 0 0 10px rgba(57, 255, 20, 0.2);
+}
+
+.metric-text {
+  font-family: 'Share Tech Mono', monospace;
+  color: #39ff14;
+  font-size: 0.9em;
+  margin-top: 10px;
+  text-align: center;
+}
+
+/* Glass Terminal Manifest */
+.terminal-manifest {
+  background: rgba(0, 40, 0, 0.15);
+  border-left: 4px solid #39ff14;
+  border-right: 1px solid rgba(57, 255, 20, 0.3);
+  border-top: 1px solid rgba(57, 255, 20, 0.3);
+  border-bottom: 1px solid rgba(57, 255, 20, 0.3);
+  padding: 20px;
+  margin: 20px 0;
+  position: relative;
+  font-family: 'JetBrains Mono', monospace;
+  box-shadow: 0 0 20px rgba(0, 255, 0, 0.05);
+}
+
+.terminal-manifest::before {
+  content: "SYSTEM_MANIFEST_v2.0";
+  position: absolute;
+  top: -12px;
+  left: 20px;
+  background: #0a0a0a;
+  padding: 0 10px;
+  color: #39ff14;
+  font-size: 0.7em;
+  font-family: 'Share Tech Mono', monospace;
+  border: 1px solid #39ff14;
+}
+
+.terminal-manifest code {
+  color: #aaffaa !important;
+  background: transparent !important;
+}
+
+/* Code blocks look like terminals */
+.md-typeset pre > code {
+  background-color: #000;
+  border: 1px solid #333;
+  box-shadow: 0 0 10px rgba(0, 255, 65, 0.1);
+  font-family: 'JetBrains Mono', monospace;
+}
+
+/* Main text slightly more readable but still techy */
+body, .md-typeset {
+  font-family: 'JetBrains Mono', monospace; /* Or standard sans if this is too much */
+}
+
+/* Buttons */
+.md-button {
+  border-radius: 0; /* Square edges */
+  border: 1px solid var(--md-accent-fg-color);
+  color: var(--md-accent-fg-color);
+  background: transparent;
+  transition: all 0.3s ease;
+}
+
+.md-button:hover {
+  background: var(--md-accent-fg-color);
+  color: #000;
+  box-shadow: 0 0 15px var(--md-accent-fg-color);
+}
+
+/* Image borders */
+img {
+  border: 2px solid var(--md-primary-fg-color);
+  padding: 5px;
+  background: rgba(0, 255, 65, 0.1);
+}
+
+/* Scrollbar (Chrome/Safari) */
+::-webkit-scrollbar {
+  width: 10px;
+  background: #000;
+}
+::-webkit-scrollbar-thumb {
+  background: #333;
+  border: 1px solid var(--md-primary-fg-color);
+}

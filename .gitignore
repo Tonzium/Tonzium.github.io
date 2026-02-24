@@ -1,0 +1,23 @@
+# MkDocs build output
+/site/
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Development tools
+.vscode/
+.idea/
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# currently no workflows in use
+.github/workflows/docs.yml
