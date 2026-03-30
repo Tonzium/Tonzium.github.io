@@ -1,7 +1,7 @@
 # Toni Kiuru
 
 <div align="center">
-  <img src="images/toni.jpg" width="250" style="border-radius: 50%; border: 2px solid #39ff14; box-shadow: 0 0 15px rgba(57, 255, 20, 0.3);">
+  <img src="images/toni.png" width="250" style="border-radius: 50%; border: 2px solid #39ff14; box-shadow: 0 0 15px rgba(57, 255, 20, 0.3);">
   
   <h3>Materials Scientist | Applied AI Research | Computational Engineering</h3>
   
@@ -46,15 +46,15 @@ Hi there! I'm Toni.
 
 > **"I see research, engineering, and IT as the bridge between cutting-edge science and real-world impact."**
 
-I hold a **Master’s degree in Materials Science from Aalto University**, where I developed a strong foundation in physics, chemistry, and data-driven problem solving. My academic focus included semiconductor physics and lithium-ion battery materials, combining theoretical understanding with experimental insight.
+I hold a **Master’s degree** in Materials Science from Aalto University, where I developed a strong foundation in physics, chemistry, and data-driven problem solving. My academic focus included semiconductor physics and lithium-ion battery materials, combining theoretical understanding with experimental insight.
 
-From early on, I was equally drawn to computational thinking. I chose **materials science** intentionally, recognizing that deep physical intuition provides the strongest basis for solving complex engineering problems. This background trained me to approach phenomena through first principles, structured modelling, and experimental validation.
+From early on, I was equally drawn to computational thinking. I chose materials science intentionally, recognizing that deep physical intuition provides the strongest basis for solving complex engineering problems. This background trained me to approach phenomena through first principles, structured modeling, and experimental validation.
 
-After graduation, I deliberately expanded into **programming, data engineering, and machine learning**, viewing it as a long-term commitment rather than a short-term skill acquisition. I built my expertise systematically in neural networks, deep learning, and advanced analytics, applying these methods to real industrial material processes.
+After graduation, I systematically expanded my focus into **programming, data engineering, and machine learning**. Viewing this as a long-term commitment rather than a short-term skill acquisition, I built expertise in neural networks, deep learning, and advanced analytics, applying these methods directly to real industrial material processes.
 
-Currently, I am completing a **Bachelor’s Degree in Data and AI at KAMK** alongside my work to formalize and certify my existing expertise, while staying aligned with modern tools and expanding my professional network. My planned graduation year is 2027.
+To formalize this expertise and stay aligned with modern tools, and workflows, I am currently completing a **Bachelor’s Degree in Data and AI** at KAMK alongside my full-time work (planned graduation: 2027).
 
-I'm a big fan of science fiction, and the classic green-on-black aesthetic of the genre inspired the theme of this website. When I'm outside, I enjoy riding my mountain bike through forest trails. Indoors, I keep building my digital Homelab and connecting the digital world to the real world with a 3D printer models, bringing ideas to life. This mix of outdoor adventure and creative work keeps me motivated and curious.
+I am a big fan of science fiction, which inspired the classic green-on-black aesthetic of this website. When I'm outside, I enjoy riding my mountain bike through forest trails. Indoors, I keep building my digital Homelab and connecting the digital world to the real world with 3D printed models. This mix of outdoor adventure and creative problem-solving keeps me perpetually motivated and curious.
 
 ---
 
@@ -80,15 +80,15 @@ I'm a big fan of science fiction, and the classic green-on-black aesthetic of th
 
 ### **What I Bring to the Team**
 
-I have experienced firsthand that innovation starts with bringing people together. Through active listening, I help teams formulate actionable steps to create transformative change. I help teams structure messy data, build machine learning models that actually work in production, and connect data insights with real physical understanding. For example, I've developed models to predict material behaviour from process data.
+I have experienced firsthand that innovation starts with bringing people together. Through active listening, I help teams formulate actionable steps to create transformative change. I specialize in structuring messy data, building machine learning models that work in production, and connecting data insights with real physical understanding such as predicting material behavior from raw process data.
 
-I enjoy shaping ideas into clear project plans, coordinating between R&D, IT, and production, and making sure every deliverable adds real value. I bring structured thinking, curiosity, and a collaborative mindset and I communicate results clearly, whether to researchers, operators, or management. I am a **native Finnish speaker** and work fluently in **English** in multicultural environments.
+I enjoy shaping ideas into clear project plans, coordinating between R&D, IT, and production, and making sure every deliverable adds tangible value. I bring structured thinking, curiosity, and a collaborative mindset, communicating results clearly to researchers, operators, and management alike. I am a native Finnish speaker and work fluently in English across multicultural environments.
 
 ---
 
 ### **The Bridge: Materials-to-AI Pipeline**
 
-In my work, I focus on modelling complex material and process systems. I design models that capture temporal evolution across full process runs, enabling more accurate representation of physical behaviour. I develop models that capture the temporal dynamics of production, enabling accurate and physically consistent representations of material behavior. My approach emphasizes rigorous validation, including structured dataset partitioning, robustness analysis, and continuous monitoring of model generalization under process drift. Ensuring reliability across tools, materials, and production conditions forms a central principle of my modeling philosophy.
+In my work, I focus on modeling complex material and process systems. I design models that capture temporal evolution across full process runs, enabling accurate and physically consistent representations of material behavior. My approach emphasizes rigorous validation, including structured dataset partitioning, robustness analysis, and continuous monitoring of model generalization under process drift. Ensuring reliability across tools, materials, and production conditions forms the central principle of my modeling philosophy.
 
 *How I translate physical signals into industrial impact.*
 
@@ -233,6 +233,8 @@ An implementation of a neural-network-based RL agent for the classic Lunar Lande
 A classic Snake game implementation where you can play against AI or a friend.
 
 *   *Check out more on my [GitHub](https://github.com/Tonzium/).*
+
+
 *   *School projects in internal [GitLab]*
 
 ---
@@ -272,6 +274,7 @@ A classic Snake game implementation where you can play against AI or a friend.
 
 I am always open to discussing new opportunities, collaborations, or just chatting about tech and science.
 
-[Email Toni!](mailto:toni.kiuru9@gmail.com){ .md-button }
+[Email](mailto:toni.kiuru9@gmail.com){ .md-button }
 [LinkedIn](https://www.linkedin.com/in/toni-k-46538b83/){ .md-button }
-[Discord Tonzium](https://discordapp.com/users/Tonzium){ .md-button }
+[Discord](https://discordapp.com/users/Tonzium){ .md-button }
+[Website](https://tonikiuru.com){ .md-button }
