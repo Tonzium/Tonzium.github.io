@@ -255,7 +255,7 @@ A classic Snake game implementation where you can play against AI or a friend.
 ---
 
 ## Awards & Certifications
-### Data adn AI
+### Data and AI
 *   [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/6SVDZET3MVQ8/) (Coursera)
 *   [Data Scientist: NLP Specialist](https://www.codecademy.com/profiles/ToniKiuru/certificates/9c35fed4f15a487385d52456712e0da9/) (Codecademy)
 *   [Intermediate Machine Learning](https://www.codecademy.com/profiles/ToniKiuru/certificates/964140ff91ae4cd7872f51207633413a/) (Codecademy)
