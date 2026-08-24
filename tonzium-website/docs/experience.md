@@ -9,7 +9,7 @@ I manage product/process qualifications, optimization, cost reduction, and yield
 
 **Key Responsibilities:**
 
-*   Responsible for the silicon-glass fusion process — structural integrity and post-fusion workflows.
+*   Responsible for the silicon-glass fusion process, including structural integrity and post-fusion workflows.
 *   Metrology tool controls (MSA, Gage R&R).
 *   Implementing process controls and continuous improvements (CI) to reduce variation.
 *   Leading root-cause investigations (FTA, 8D).
@@ -18,6 +18,7 @@ I manage product/process qualifications, optimization, cost reduction, and yield
 
 **My Impact (Data & AI):**
 
+*   **Yield Leadership:** When I started in 2022, overall yield was 96% and falling. We have improved it every year since, and it now stands above 98.5%. Along the way, scrap costs dropped 40% in a single year. The next target is 99%.
 *   **Digital Transformation:** Spearheaded initiatives delivering end-to-end data solutions, from novel data-collection strategies to fully automated analytics.
 *   **AI Integration:** Developed novel process controls leveraging AI for predictive maintenance and smarter production workflows.
 *   **Visualization:** Created Power BI and JMP dashboards for enhanced analysis.

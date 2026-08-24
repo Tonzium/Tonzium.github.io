@@ -14,7 +14,8 @@
 
 ## Education
 
-**Master's Degree** | Aalto University (2021)
+**Master of Science** | Aalto University (2021)
+:   *Programme:* Chemical, Biochemical and Materials Sciences
 :   *Major:* Functional Materials
 :   *Thesis:* Analysis of Lithium-Ion Battery Cathode-Anode Materials for Second-Life Applications
 
@@ -38,9 +39,9 @@
 *   [Reinforced Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/B83VFZ99X6G2/) (Coursera)
 
 ### Other
-*   [Kennesaw University — Six Sigma Green Belt](https://www.coursera.org/account/accomplishments/specialization/TD61UAN7UPYM) (Coursera)
-*   [KAIST — Supply Chain Management](https://www.coursera.org/account/accomplishments/verify/NHRPZWSNL648) (Coursera)
-*   [Dartmouth — Strategic Leadership, Part 1](https://www.coursera.org/account/accomplishments/verify/N3B6H334QTE4) (Coursera)
+*   [Kennesaw University: Six Sigma Green Belt](https://www.coursera.org/account/accomplishments/specialization/TD61UAN7UPYM) (Coursera)
+*   [KAIST: Supply Chain Management](https://www.coursera.org/account/accomplishments/verify/NHRPZWSNL648) (Coursera)
+*   [Dartmouth: Strategic Leadership, Part 1](https://www.coursera.org/account/accomplishments/verify/N3B6H334QTE4) (Coursera)
 
 ---
 

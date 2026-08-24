@@ -4,11 +4,11 @@ Hi there! I'm Toni.
 
 > **"I see research, engineering, and IT as the bridge between cutting-edge science and real-world impact."**
 
-I hold a **Master's degree** in Materials Science from Aalto University, with an academic focus on semiconductor physics and lithium-ion battery materials. I chose materials science intentionally: deep physical intuition is the strongest basis for solving complex engineering problems, and it trained me to work from first principles, structured modeling, and experimental validation.
+My focus today is **AI, machine learning, and data engineering**. I hold a **Master of Science** from Aalto University (programme in Chemical, Biochemical and Materials Sciences), which trained me to work from first principles, structured modeling, and experimental validation. I now apply that foundation to building intelligent systems rather than to lab work.
 
-After graduation, I systematically expanded into **programming, data engineering, and machine learning** — a long-term commitment, not a short-term skill acquisition. I now apply neural networks, deep learning, and advanced analytics directly to real industrial material processes, and I am completing a **Bachelor's Degree in Data and AI** at KAMK alongside full-time work (planned graduation: 2027).
+After graduation, I systematically expanded into **programming, data engineering, and machine learning** as a long-term commitment, not a short-term skill acquisition. I now apply neural networks, deep learning, and advanced analytics to real industrial processes, and I am completing a **Bachelor's Degree in Data and AI** at KAMK alongside full-time work (planned graduation: 2027).
 
-Outside work I ride my mountain bike through forest trails, build my digital homelab, and connect the digital world to the real one with 3D-printed models. I'm also a big fan of science fiction — which inspired the green-on-black aesthetic of this site.
+Outside work I ride my mountain bike through forest trails, build my digital homelab, and connect the digital world to the real one with 3D-printed models. I'm also a big fan of science fiction, which inspired the green-on-black aesthetic of this site.
 
 ---
 
@@ -18,13 +18,13 @@ Outside work I ride my mountain bike through forest trails, build my digital hom
 ```json
 {
   "name": "Toni Kiuru",
-  "role": "Process Engineer (Processes <-> Data <-> AI/ML)",
+  "role": "AI & Data Engineering (Real World <-> Data <-> AI/ML)",
   "core_competencies": [
     "Predictive Systems",
     "Advanced Data Analysis",
     "Cross-functional Team Lead"
   ],
-  "mission_vector": "Turning Physical Processes into Scalable, Intelligent Systems",
+  "mission_vector": "Turning Real-World Data into Scalable, Intelligent Systems",
   "status": "In Progress"
 }
 ```
@@ -32,11 +32,13 @@ Outside work I ride my mountain bike through forest trails, build my digital hom
 
 ---
 
-## The Bridge: Materials-to-AI Pipeline
+## Example: From Raw Signals to AI-Driven Impact
 
-I design models that capture temporal evolution across full process runs, giving accurate and physically consistent representations of material behavior. My modeling philosophy centers on rigorous validation: structured dataset partitioning, robustness analysis, and continuous monitoring of generalization under process drift — across tools, materials, and production conditions.
+One concrete example of how I work, drawn from semiconductor manufacturing. I design models that capture temporal evolution across full process runs, giving accurate and physically consistent representations of system behavior. My modeling philosophy centers on rigorous validation: structured dataset partitioning, robustness analysis, and continuous monitoring of generalization under drift across tools, materials, and production conditions.
 
-*How I translate physical signals into industrial impact:*
+The domain here happens to be manufacturing, but the pipeline itself is universal: any field with messy real-world data (logistics, energy, healthcare, finance) follows the same path from raw signals to models to decisions. That end-to-end path is exactly where I want to work.
+
+*How raw signals become business impact:*
 
 <div class="mermaid">
 graph LR
@@ -70,7 +72,7 @@ graph LR
 
 ## What I Bring to the Team
 
-Innovation starts with bringing people together. Through active listening, I help teams formulate actionable steps toward transformative change. I specialize in structuring messy data, building machine learning models that work in production, and connecting data insights with real physical understanding — such as predicting material behavior from raw process data.
+Innovation starts with bringing people together. Through active listening, I help teams formulate actionable steps toward transformative change. I specialize in structuring messy data, building machine learning models that work in production, and connecting data insights with real physical understanding, such as predicting material behavior from raw process data.
 
 I enjoy shaping ideas into clear project plans, coordinating between R&D, IT, and production, and communicating results clearly to researchers, operators, and management alike. I am a native Finnish speaker and work fluently in English across multicultural environments.
 

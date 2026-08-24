@@ -2,22 +2,34 @@
 
 A selection of home projects where I explore data engineering, machine learning, and reinforcement learning hands-on.
 
-## [Fintraffic Railway Data Pipeline](https://github.com/Tonzium/fintraffic_railway_data_pipeline)
-A professional-grade data platform for analyzing Finnish Railway data. Hands-on experience with DuckDB, dbt, and Evidence while designing an end-to-end analytical workflow.
+## Live Demos
 
-## [GNN Image Classifier](https://github.com/Tonzium/GNN_WAVI_image_classifier)
+### [Railway Analytics (railway.tonikiuru.com)](https://railway.tonikiuru.com)
+A live train schedule analytics platform built on raw data from Fintraffic's open railway APIs. The data flows through a **medallion architecture**: raw ingested feeds (bronze) are cleaned and conformed (silver) into analysis-ready insight (gold), showing how layered data transformations turn a raw API stream into real value.
+
+### [Lunar Lander (lander.tonikiuru.com)](https://lander.tonikiuru.com)
+A live demo of my reinforcement learning work on the Lunar Lander environment. Try it directly in the browser.
+
+---
+
+## Repositories
+
+### [Fintraffic Railway Data Pipeline](https://github.com/Tonzium/fintraffic_railway_data_pipeline)
+A professional-grade data platform for analyzing Finnish Railway data. Hands-on experience with DuckDB, dbt, and Evidence while designing an end-to-end analytical workflow. Powers the live [Railway Analytics](https://railway.tonikiuru.com) demo.
+
+### [GNN Image Classifier](https://github.com/Tonzium/GNN_WAVI_image_classifier)
 Applies data augmentation to overcome limited labeled data in Wafer Automatic Visual Inspection (WAVI), improving classification accuracy with fewer samples. Smart augmentation can significantly reduce manual labeling effort while keeping AI models robust.
 
-## [Multi-Agent Prompting for Coding Tasks](https://github.com/Tonzium/MultiAgentPromptingForCodingTasks)
+### [Multi-Agent Prompting for Coding Tasks](https://github.com/Tonzium/MultiAgentPromptingForCodingTasks)
 One of my early experiments using crewAI to build an LLM multi-agent workflow for coding tasks. Deepened my understanding of prompt engineering and agent coordination.
 
-## [Q-learning vs Expected Sarsa in Cliff World](https://github.com/Tonzium/Q-learning-vs-ExpectedSarsa_in_cliff_world)
+### [Q-learning vs Expected Sarsa in Cliff World](https://github.com/Tonzium/Q-learning-vs-ExpectedSarsa_in_cliff_world)
 A visual comparison of two reinforcement learning algorithms, highlighting their exploration–safety trade-offs and the balance between performance and stability in RL systems.
 
-## [Reinforcement Learning — Lunar Lander v3](https://github.com/Tonzium/ExpectedSarsaAgent_with_NeuralNetwork-LunarLander-v3)
-A neural-network-based RL agent for the classic Lunar Lander v3 environment, with an environment-aware, action-driven training loop designed from scratch.
+### [Reinforcement Learning: Lunar Lander v3](https://github.com/Tonzium/ExpectedSarsaAgent_with_NeuralNetwork-LunarLander-v3)
+A neural-network-based RL agent for the classic Lunar Lander v3 environment, with an environment-aware, action-driven training loop designed from scratch. See the live [Lunar Lander demo](https://lander.tonikiuru.com).
 
-## [Snake Game — Click to Play](https://tonzium.github.io/snakegame/)
+### [Snake Game: Click to Play](https://tonzium.github.io/snakegame/)
 A classic Snake game implementation where you can play against AI or a friend.
 
 ---
