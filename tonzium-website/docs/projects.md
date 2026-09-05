@@ -10,6 +10,9 @@ A live train schedule analytics platform built on raw data from Fintraffic's ope
 ### [Lunar Lander (lander.tonikiuru.com)](https://lander.tonikiuru.com)
 A live demo of my reinforcement learning work on the Lunar Lander environment. Try it directly in the browser.
 
+### [Push the Walker (walker.tonikiuru.com)](https://walker.tonikiuru.com)
+A humanoid skeleton that walks under the control of a trained reinforcement learning policy, running entirely in your browser on **MuJoCo (WebAssembly)** physics with the policy served through **ONNX Runtime**. Nudge, shove, or kick it, throw balls and cubes at it, and watch how the policy recovers its balance (or fails to). Drag to orbit and scroll to zoom.
+
 ---
 
 ## Repositories
